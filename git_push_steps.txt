@@ -1,0 +1,5 @@
+Оваа датотека е креирана со цел да ги наведе чекорите за изведување на еден Git push.
+Чекорите се следни:
+1. git add .
+2. git commit -m "Opis na napravenite promeni"
+3. git push
