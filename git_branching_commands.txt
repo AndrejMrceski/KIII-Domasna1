@@ -1,0 +1,16 @@
+Во оваа датотека ќе има неколку корисни команди при работење со гранки.
+
+1. Креирање на гранка
+    git branch <name_of_branch>
+
+2. Премин од една на друга гранка
+    git checkout <name_of_branch>
+
+3. Креирање и премин од една на друга гранка
+    git checkout -b <name_of_branch>
+
+4. Спојување на моменталната гранка со некоја друга
+    git merge <name_of_branch>
+
+5. Приказ на сите гранки (локално и remote)
+    git branch --all / git branch -a
